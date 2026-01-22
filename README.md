@@ -1,4 +1,4 @@
-# TechSquare E-Commerce Analysis
+
 
 TechSquare is a US-based e-commerce company that sells popular consumer electronics and accessories. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities.
 
@@ -7,14 +7,14 @@ Reporting and Answering questions the Marketing and Finance Team, an in-depth an
 *	Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
 *	Product performance - Analyzing different product lines, payment method and transaction status.
 *	Loyalty program evaluation - Evaluating the effectiveness of the company's discount program and providing recommendations to maximize customer engagement.
-<p>
-  <img src=''>
+<p align="center">
+  <img src='https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/diagram_e-commerce.PNG' width=600 height=500>
 </p>
 
 ## Executive Summary
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-17%20204910.png" width=600 height=800>
 </p>
 
 **1.	Revenue Growth and Peak Performance**
@@ -38,8 +38,9 @@ Reporting and Answering questions the Marketing and Finance Team, an in-depth an
 
 ## Insight Deep-Dive
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/profit%20and%20revenue.png" width=500 height=500> 
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/aov.png" width=500 height=500> 
 </p>
 
 ### Sales Trend
@@ -72,8 +73,8 @@ Reporting and Answering questions the Marketing and Finance Team, an in-depth an
 
 ### Order Count
 
-<>
-<img src="">
+<p align="center">
+<img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/unit%20count.png" width=400 height=400>
 </p>
 
 *	From mid-2021 to mid-2022 the quantity of unit being sold shows a clear upward trajectory, with peaks gets higher everytime, this indicates demand growth, expansion, and aggressive sales push. But still have sudden drops in every rises.
@@ -97,11 +98,11 @@ Reporting and Answering questions the Marketing and Finance Team, an in-depth an
 **Brand Performance**
 This part are based on Marketing Team questions regarding particular brand (Samsung, Apple, Huawei, Lenovo, and Sony) So I exclude every product without those brands.
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Brand%20AOV%20and%20Quantity%20Shares.png" width=600 height=700>
 </p>
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-21%20203439.png" width=300 height=300>
 </p>
 
 *	The Samsung brand had consistently strong sales year over year totaling $588,764,150, and it is the highest revenue generating product overall.
@@ -111,20 +112,19 @@ This part are based on Marketing Team questions regarding particular brand (Sams
 
 ### Customer Behaviour
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/download%20(2).png" width=400 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/download%20(3).png" width=400 height=400>
 </p>
 
 
 With 1984 customer with normal purchase (Register first then order) and 880 Pre-Register customer (Order first then Register), Customer segmentation is designed to reflect intrinsic purchasing behavior. Product attributes such as brand and category are analyzed post-clustering to interpret and activate each segment.
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-21%20193627.png" width=600 height=700>
 </p>
 
-<p>
-  <img src="">
-</p>
+>
 
 Revenue growth is driven by episodic high-value events rather than sustained customer activity.
 Loyal normal customers are declining, while pre-registered customers show high potential but inconsistent engagement. This indicates strong upside with weak retention fundamentals
@@ -140,8 +140,8 @@ Loyal normal customers are declining, while pre-registered customers show high p
 *	Loyal high value has almost flat for a long time. Then one massive revenue spike with minimal unit increase caused by $570.775.388 in revenue
 *	Normal but low engagement showing us that the Pre-registration does not guarantee activation. Behavior mirrors low-engagement normal customers.
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/AOV%20Brand%20Distritbution.png" width=500 height=700>
 </p>
 
 Normal customers contribute most of the transaction volume through repeated low-engagement purchases, providing operational stability.
@@ -154,20 +154,20 @@ This creates a trade-off between stability and upside that requires different en
 2. In 2022, which category generated the highest transaction value?  Mobiles and Tablets with $918.451.576 in Revenue.
 3. Compare transaction values for each category in 2021 and 2022. Identify categories with increased or decreased transaction values from 2021 to 2022.
  
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-21%20203325.png" width=600 height=600>
 </p>
 
 4. Show the top 5 most popular payment methods used in 2022 (based on total unique orders). 
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-21%20203409.png" width=400 height=400>
 </p>
 
 5. Rank the following 5 products by transaction value: Samsung, Apple, Sony, Huawei, and Lenovo.
 
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/Screenshot%202026-01-21%20203439.png" width=400 height=400>
 </p>
 
 

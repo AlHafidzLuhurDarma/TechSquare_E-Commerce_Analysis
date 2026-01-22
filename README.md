@@ -1,4 +1,4 @@
-
+# TechSquare E-Commerce Analysis
 
 TechSquare is a US-based e-commerce company that sells popular consumer electronics and accessories. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities.
 

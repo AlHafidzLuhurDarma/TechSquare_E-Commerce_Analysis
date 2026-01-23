@@ -11,6 +11,18 @@ Reporting and Answering questions the Marketing and Finance Team, an in-depth an
   <img src='https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/diagram_e-commerce.PNG' width=600 height=500>
 </p>
 
+## Table of Content
+
+* Executive Summary
+* Insight Deep-Dive
+  * Sales Trend
+  * Average Order Value (AOV)
+  * Order Count
+  * Product Category Performance
+* Customer Behaviour
+* Answers to Stakeholders Questions
+* Recommendations
+
 ## Executive Summary
 
 <p align="center">
@@ -148,7 +160,7 @@ Normal customers contribute most of the transaction volume through repeated low-
 Pre-registered customers, while fewer in volume, are more likely to generate high-impact purchases and bulk behavior.
 This creates a trade-off between stability and upside that requires different engagement strategies per segment.
 
-## Answer to Stakeholders Questions
+## Answers to Stakeholders Questions
 
 1. In 2021, in which month was the highest total transaction value (after_discount) recorded? November with $259.038.092 in Revenue
 2. In 2022, which category generated the highest transaction value?  Mobiles and Tablets with $918.451.576 in Revenue.

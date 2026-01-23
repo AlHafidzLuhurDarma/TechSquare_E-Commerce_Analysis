@@ -193,6 +193,7 @@ The revenue is volume-driven while profit is event-driven, indicating pricing an
 
 **3. Rebuild customer retention with segment-specific engagement strategies**
 Loyal normal customers declined sharply after mid-2022, while pre-registered customers showed high-value but inconsistent behavior. Implement loyalty incentives for repeat normal customers and targeted activation campaigns for high-potential pre-registered customers to balance stability and upside.
+
 **4. Leverage high-performing brands for bundled and upsell strategies**
 Samsung and Apple consistently generate the highest revenue and AOV. TechSquare should use these brands as anchor products for bundles, cross-sells, and premium offers to lift AOV across lower-impact categories such as Superstore and Books.
 

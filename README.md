@@ -6,7 +6,7 @@ TechSquare's book of business in 2021-2022 is approaching 3998 customers and pos
 Reporting and Answering questions the Marketing and Finance Team, an in-depth analysis was conducted to evaluate TechSquare’s performance over the past several years (2021–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance TechSquare’s commercial performance. The key insights and recommendations focus on the following areas:
 *	Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
 *	Product performance - Analyzing different product lines, payment method and transaction status.
-*	Loyalty program evaluation - Evaluating the effectiveness of the company's discount program and providing recommendations to maximize customer engagement.
+*	Customer berhaviour analysis - Evaluating the the different behaviour of customers and providing recommendations to maximize customer engagement.
 <p align="center">
   <img src='https://github.com/AlHafidzLuhurDarma/TechSquare_E-Commerce_Analysis/blob/main/visualization/diagram_e-commerce.PNG' width=600 height=500>
 </p>
